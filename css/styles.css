@@ -1,0 +1,23 @@
+body 
+{
+    background-color: coral;
+}
+#code-image
+{
+    border-radius: 75px;
+    height:40%;
+    width:40%;
+    outline: auto;
+    outline-width: 10px;
+    outline-style: double;
+    outline-color: black;
+}
+hr
+{
+    background-color: black;
+    border: none;
+}
+.centered-header
+{
+    text-align: center;
+}
